@@ -1,7 +1,7 @@
 ## About
 A Full-stack Social Media Application built using MERN, which allows users to react other posts in real time and also follow others on the application along with all other CREATE-REACT-UPDATE-DELETE operations. Also incorporated full Login/SignUp authentication using Google OAuth API and JSON Web Token ( JWT ) and JWT Authentication as well.
 
-##Demo
+#Demo
 
 ![SocialMediaApp_Banner](https://user-images.githubusercontent.com/60267353/163604281-6cea5a8f-54a7-4c0a-8c43-9f4e340a5bb7.jpg)
 
